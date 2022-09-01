@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  grid : grid-cols-3 justify-items-center text-2xl;
 }
 
 .App-logo {
